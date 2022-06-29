@@ -1,1 +1,0 @@
-{"version":3,"file":"771.chunk.804b09901c1e174fee77.js","mappings":"mJAAA,MAOA,EANA,CACI,YACA,aACA","sources":["webpack://ng-universal-demo/../basic-components/src/types.ts"],"sourcesContent":["const components = \n[\n    'gridPanel',\n    'stackPanel',\n    'textBlock',\n];\n\nexport default components;\n"],"names":[],"sourceRoot":""}
