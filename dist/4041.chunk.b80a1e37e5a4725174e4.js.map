@@ -1,0 +1,1 @@
+{"version":3,"file":"4041.chunk.b80a1e37e5a4725174e4.js","mappings":"qJAAA,MAQA,EAPA,CACI,WACA,OACA,eACA,e","sources":["webpack://ng-universal-demo/../basic-components/src/relations.ts"],"sourcesContent":["const relations = \n[\n    'negation',\n    'rest',\n    'sampleChange',\n    'sampleSource',\n];\n\nexport default relations;\n"],"names":[],"sourceRoot":""}
