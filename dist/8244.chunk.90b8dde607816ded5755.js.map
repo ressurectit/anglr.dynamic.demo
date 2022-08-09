@@ -1,1 +1,0 @@
-{"version":3,"file":"8244.chunk.90b8dde607816ded5755.js","mappings":"qJAAA,MAKA,EAJA,CACI,Y","sources":["webpack://ng-universal-demo/../handlebars-components/src/types.ts"],"sourcesContent":["const components = \n[\n    'dataBlock',\n];\n\nexport default components;\n"],"names":[],"sourceRoot":""}
