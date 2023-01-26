@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkng_universal_demo=self.webpackChunkng_universal_demo||[]).push([[5455],{45455:(e,o,n)=>{n.r(o),n.d(o,{PlaceholderLayoutEditorMetadata:()=>t});class t{constructor(){this.metaInfo={name:"Placeholder",description:"Placeholder component, which allows placing component inside custom component",group:"Component"},Object.freeze(this)}}}}]);
+//# sourceMappingURL=5455.chunk.f77243b4f23d78526805.js.map
