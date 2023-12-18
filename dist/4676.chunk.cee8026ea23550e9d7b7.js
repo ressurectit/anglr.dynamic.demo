@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkng_universal_demo=self.webpackChunkng_universal_demo||[]).push([[4676],{14676:(e,u,d)=>{d.r(u),d.d(u,{default:()=>s});const s=["add","subtract","divide","multiply","power","round"]}}]);
+//# sourceMappingURL=4676.chunk.cee8026ea23550e9d7b7.js.map
