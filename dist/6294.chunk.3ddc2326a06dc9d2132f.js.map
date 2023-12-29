@@ -1,1 +1,0 @@
-{"version":3,"file":"6294.chunk.3ddc2326a06dc9d2132f.js","mappings":"qJAAA,MAGA,EAFA,E","sources":["webpack://ng-universal-demo/../math-components/src/types.ts"],"sourcesContent":["const components: string[] = \n[];\n\nexport default components;\n"],"names":[],"sourceRoot":""}

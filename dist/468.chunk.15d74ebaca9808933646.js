@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkng_universal_demo=self.webpackChunkng_universal_demo||[]).push([[468],{47639:(e,t,a)=>{a.r(t),a.d(t,{PagingLayoutEditorMetadata:()=>s});class s{constructor(){this.metaInfo={name:"Paging",description:"Allows to set up paging plugin",group:"Grid",dragDisabled:!0},this.addDescendant=(e,t)=>{t.plugin=e},this.canDropMetadata=e=>!e?.plugin,this.removeDescendant=(e,t)=>{t.plugin=null},this.customDropTypes=()=>({layout:"PAGING",tree:"TREE_PAGING"}),Object.freeze(this)}}}}]);
+//# sourceMappingURL=468.chunk.15d74ebaca9808933646.js.map

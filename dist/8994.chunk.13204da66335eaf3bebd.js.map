@@ -1,0 +1,1 @@
+{"version":3,"file":"8994.chunk.13204da66335eaf3bebd.js","mappings":"qJAAA,MAIA,EAHA,E","sources":["webpack://ng-universal-demo/../grid-components/src/relations.ts"],"sourcesContent":["const relations: string[] = \n[\n];\n\nexport default relations;\n"],"names":[],"sourceRoot":""}

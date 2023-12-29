@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkng_universal_demo=self.webpackChunkng_universal_demo||[]).push([[8538],{18538:(a,e,n)=>{n.r(e),n.d(e,{default:()=>s});const s=["asyncDataLoader","basicPaging","dataTable","gridColumn","previousNextPaging","syncDataLoader"]}}]);
+//# sourceMappingURL=8538.chunk.6b57a137d5ff77fc3433.js.map

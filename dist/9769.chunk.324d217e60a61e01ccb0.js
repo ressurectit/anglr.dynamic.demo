@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkng_universal_demo=self.webpackChunkng_universal_demo||[]).push([[9769],{69769:(a,e,t)=>{t.r(e),t.d(e,{AsyncDataLoaderLayoutEditorMetadata:()=>r});class r{constructor(){this.metaInfo={name:"Async data loader",description:"Async data loader grid plugin for obtaining data",group:"Grid"},this.customDragType=()=>({layout:"DATA_LOADER",tree:"TREE_DATA_LOADER"}),Object.freeze(this)}}}}]);
+//# sourceMappingURL=9769.chunk.324d217e60a61e01ccb0.js.map

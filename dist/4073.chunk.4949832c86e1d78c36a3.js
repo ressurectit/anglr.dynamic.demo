@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkng_universal_demo=self.webpackChunkng_universal_demo||[]).push([[4073],{24073:(e,s,a)=>{a.r(s),a.d(s,{default:()=>n});const n=["dataBlock"]}}]);
+//# sourceMappingURL=4073.chunk.4949832c86e1d78c36a3.js.map

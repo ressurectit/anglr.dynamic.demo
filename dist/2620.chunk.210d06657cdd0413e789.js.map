@@ -1,0 +1,1 @@
+{"version":3,"file":"2620.chunk.210d06657cdd0413e789.js","mappings":"qJAAA,MAKA,EAJA,CACI,iB","sources":["webpack://ng-universal-demo/../tinymce-components/src/relations.ts"],"sourcesContent":["const relations =\n[\n    'richTextSource',\n];\n\nexport default relations;\n"],"names":[],"sourceRoot":""}

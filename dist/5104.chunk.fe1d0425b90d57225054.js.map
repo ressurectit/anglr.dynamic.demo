@@ -1,0 +1,1 @@
+{"version":3,"file":"5104.chunk.fe1d0425b90d57225054.js","mappings":"qJAAA,MAKA,EAJA,CACI,gB","sources":["webpack://ng-universal-demo/../tinymce-components/src/types.ts"],"sourcesContent":["const components = \n[\n    'richTextBlock',\n];\n\nexport default components;\n"],"names":[],"sourceRoot":""}

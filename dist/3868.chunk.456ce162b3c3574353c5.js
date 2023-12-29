@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkng_universal_demo=self.webpackChunkng_universal_demo||[]).push([[3868],{43868:(e,t,n)=>{n.r(t),n.d(t,{GridColumnHeaderLayoutEditorMetadata:()=>a});class a{constructor(){this.metaInfo={name:"Grid column header",description:"Represenst content of grid column header",group:"Grid",dragDisabled:!0},this.addDescendant=(e,t)=>{t.content=e},this.canDropMetadata=e=>!e?.content,this.removeDescendant=(e,t)=>{t.content=null},Object.freeze(this)}}}}]);
+//# sourceMappingURL=3868.chunk.456ce162b3c3574353c5.js.map

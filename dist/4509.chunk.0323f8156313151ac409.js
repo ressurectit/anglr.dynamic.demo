@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkng_universal_demo=self.webpackChunkng_universal_demo||[]).push([[4509],{44509:(a,e,t)=>{t.r(e),t.d(e,{SyncDataLoaderLayoutEditorMetadata:()=>r});class r{constructor(){this.metaInfo={name:"Sync data loader",description:"Sync data loader grid plugin for obtaining data",group:"Grid"},this.customDragType=()=>({layout:"DATA_LOADER",tree:"TREE_DATA_LOADER"}),Object.freeze(this)}}}}]);
+//# sourceMappingURL=4509.chunk.0323f8156313151ac409.js.map

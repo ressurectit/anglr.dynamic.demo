@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkng_universal_demo=self.webpackChunkng_universal_demo||[]).push([[4771],{4771:(l,e,t)=>{t.r(e),t.d(e,{default:()=>o});const o=["block","button","gridPanel","htmlBlock","ifBlock","listBlock","stackPanel","templateBlock","textBlock","toggleButton"]}}]);
-//# sourceMappingURL=4771.chunk.627352b19175b15fe64b.js.map

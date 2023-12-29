@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkng_universal_demo=self.webpackChunkng_universal_demo||[]).push([[7131],{27131:(e,n,t)=>{t.r(n),t.d(n,{PlaceholderContainerLayoutEditorMetadata:()=>a});class a{constructor(){this.metaInfo={name:"Placeholder container",description:"Placeholder container displays placeholders content",group:"Component",dragDisabled:!0},this.addDescendant=(e,n)=>{n.content=e},this.canDropMetadata=e=>!e?.content,this.removeDescendant=(e,n)=>{n.content=null},Object.freeze(this)}}}}]);
-//# sourceMappingURL=7131.chunk.9a26e844ed462b3176c6.js.map
